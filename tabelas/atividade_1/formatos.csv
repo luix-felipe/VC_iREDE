@@ -1,0 +1,5 @@
+classe,arquivo_original,formato_saida,parametro_compressao,tamanho_kb,diferenca_visual,erro_medio,psnr_db,impacto_em_pdi
+fpga,fpga_01.jpg,JPEG,qualidade_60,,,,,
+fpga,fpga_01.jpg,PNG,sem_perdas,,,,,
+contrabaixo,contrabaixo_01.jpg,JPEG,qualidade_60,,,,,
+contrabaixo,contrabaixo_01.jpg,PNG,sem_perdas,,,,,

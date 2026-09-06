@@ -1,0 +1,33 @@
+# Ambientes Python
+.venv/
+venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Configurações locais do editor
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dataset bruto que não faz parte da entrega
+Dataset_candidatos/
+
+# Material antigo arquivado
+dataset/arquivo/
+
+# Gabarito local
+notebooks/atividade_1_gabarito.ipynb
+
+# Arquivos compactados temporários
+*.zip
+
+# Enunciados e materiais fornecidos pelo curso
+Atividades/

@@ -1,0 +1,7 @@
+classe,arquivo_original,representacao,diferencas_visuais,informacao_preservada,informacao_perdida,aplicacao_sugerida
+fpga,fpga_01.jpg,RGB,,,,
+fpga,fpga_01.jpg,HSV,,,,
+fpga,fpga_01.jpg,escala_de_cinza,,,,
+contrabaixo,contrabaixo_01.jpg,RGB,,,,
+contrabaixo,contrabaixo_01.jpg,HSV,,,,
+contrabaixo,contrabaixo_01.jpg,escala_de_cinza,,,,

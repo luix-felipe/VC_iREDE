@@ -1,0 +1,7 @@
+classe,arquivo_original,escala_percentual,largura_px,altura_px,tamanho_kb,perda_detalhe_observada,impacto_em_visao_computacional
+fpga,fpga_01.jpg,100,4000,3000,4661.7,nenhuma_referencia,
+fpga,fpga_01.jpg,50,2000,1500,,,,
+fpga,fpga_01.jpg,20,800,600,,,,
+contrabaixo,contrabaixo_01.jpg,100,3000,4000,2819.2,nenhuma_referencia,
+contrabaixo,contrabaixo_01.jpg,50,1500,2000,,,,
+contrabaixo,contrabaixo_01.jpg,20,600,800,,,,
