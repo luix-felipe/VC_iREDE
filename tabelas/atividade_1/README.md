@@ -15,4 +15,4 @@ As condições de aquisição foram confirmadas pelo autor: aproximadamente 40 c
 
 As métricas `brilho_medio`, `contraste_dp` e `nitidez_laplaciana` são medições computacionais auxiliares, não avaliações absolutas de qualidade.
 
-Os campos de resultados experimentais permanecem vazios e devem ser preenchidos somente depois de executar as transformações no notebook.
+Os campos de resultados experimentais foram preenchidos após a execução do notebook com as medições automáticas e as observações obtidas na inspeção das imagens derivadas.

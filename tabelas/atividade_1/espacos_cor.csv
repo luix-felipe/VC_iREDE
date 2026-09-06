@@ -1,7 +1,7 @@
-classe,arquivo_original,representacao,diferencas_visuais,informacao_preservada,informacao_perdida,aplicacao_sugerida
-fpga,fpga_01.jpg,RGB,,,,
-fpga,fpga_01.jpg,HSV,,,,
-fpga,fpga_01.jpg,escala_de_cinza,,,,
-contrabaixo,contrabaixo_01.jpg,RGB,,,,
-contrabaixo,contrabaixo_01.jpg,HSV,,,,
-contrabaixo,contrabaixo_01.jpg,escala_de_cinza,,,,
+classe,arquivo_original,representacao,arquivos_saida,informacao_preservada,informacao_perdida,aplicacao_sugerida,diferencas_visuais
+fpga,fpga_01.jpg,RGB,dataset\derivadas\espacos_cor\fpga\fpga_01_rgb.png,cores_e_estrutura,nenhuma_na_representacao_original,visualizacao_e_modelos_que_usam_cor,A placa azul e o fundo marrom permanecem visualmente distintos
+fpga,fpga_01.jpg,HSV,dataset\derivadas\espacos_cor\fpga\fpga_01_h.png;dataset\derivadas\espacos_cor\fpga\fpga_01_s.png;dataset\derivadas\espacos_cor\fpga\fpga_01_v.png,matiz_saturacao_e_brilho,nenhuma_relevante_alem_de_arredondamento,segmentacao_por_cor_e_analise_de_iluminacao,H separa regiões cromáticas; S evidencia cor; V destaca iluminação e sombras
+fpga,fpga_01.jpg,escala_de_cinza,dataset\derivadas\espacos_cor\fpga\fpga_01_cinza.png,luminancia_bordas_e_formas,matiz_e_saturacao,bordas_textura_e_forma,Trilhas e componentes permanecem visíveis mas diferenças baseadas em cor desaparecem
+contrabaixo,contrabaixo_01.jpg,RGB,dataset\derivadas\espacos_cor\contrabaixo\contrabaixo_01_rgb.png,cores_e_estrutura,nenhuma_na_representacao_original,visualizacao_e_modelos_que_usam_cor,O corpo preto e o escudo claro mantêm contraste e informação cromática
+contrabaixo,contrabaixo_01.jpg,HSV,dataset\derivadas\espacos_cor\contrabaixo\contrabaixo_01_h.png;dataset\derivadas\espacos_cor\contrabaixo\contrabaixo_01_s.png;dataset\derivadas\espacos_cor\contrabaixo\contrabaixo_01_v.png,matiz_saturacao_e_brilho,nenhuma_relevante_alem_de_arredondamento,segmentacao_por_cor_e_analise_de_iluminacao,H diferencia madeira e fundo; S separa áreas coloridas; V representa sombras e reflexos
+contrabaixo,contrabaixo_01.jpg,escala_de_cinza,dataset\derivadas\espacos_cor\contrabaixo\contrabaixo_01_cinza.png,luminancia_bordas_e_formas,matiz_e_saturacao,bordas_textura_e_forma,A silhueta e as cordas permanecem identificáveis apesar da perda de cor

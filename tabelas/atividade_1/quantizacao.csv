@@ -1,9 +1,9 @@
-classe,arquivo_original,niveis_de_cinza,bits_efetivos,mudanca_visual,informacao_perdida,ainda_util,aplicacao_possivel
-fpga,fpga_01.jpg,256,8,,,,
-fpga,fpga_01.jpg,64,6,,,,
-fpga,fpga_01.jpg,32,5,,,,
-fpga,fpga_01.jpg,2,1,,,,
-contrabaixo,contrabaixo_01.jpg,256,8,,,,
-contrabaixo,contrabaixo_01.jpg,64,6,,,,
-contrabaixo,contrabaixo_01.jpg,32,5,,,,
-contrabaixo,contrabaixo_01.jpg,2,1,,,,
+classe,arquivo_original,niveis_de_cinza,bits_efetivos,niveis_presentes,arquivo_saida,tamanho_kb,mudanca_visual,informacao_perdida,ainda_util,aplicacao_possivel
+fpga,fpga_01.jpg,256,8,256,dataset\derivadas\quantizacao\fpga\fpga_01_256_niveis.png,7309.59,Referência em cinza sem redução adicional,Nenhuma relevante,sim,Inspeção em escala de cinza
+fpga,fpga_01.jpg,64,6,64,dataset\derivadas\quantizacao\fpga\fpga_01_64_niveis.png,5244.79,Diferença discreta e poucos degraus tonais,Parte das gradações sutis,sim,Análise estrutural com menor profundidade
+fpga,fpga_01.jpg,32,5,32,dataset\derivadas\quantizacao\fpga\fpga_01_32_niveis.png,4252.2,Faixas tonais aparecem no fundo e nas sombras,Gradações finas e contraste sutil,sim,Classificação e detecção de formas
+fpga,fpga_01.jpg,2,1,2,dataset\derivadas\quantizacao\fpga\fpga_01_2_niveis.png,793.64,Imagem binária com regiões extensas pretas e brancas,Texturas gradações e muitos detalhes pequenos,parcialmente,Máscara binária após escolha adequada de limiar
+contrabaixo,contrabaixo_01.jpg,256,8,256,dataset\derivadas\quantizacao\contrabaixo\contrabaixo_01_256_niveis.png,5466.66,Referência em cinza com gradações contínuas,Nenhuma relevante,sim,Análise de forma textura e iluminação
+contrabaixo,contrabaixo_01.jpg,64,6,64,dataset\derivadas\quantizacao\contrabaixo\contrabaixo_01_64_niveis.png,3277.86,Aparência próxima da referência,Parte das transições tonais sutis,sim,Reconhecimento do instrumento
+contrabaixo,contrabaixo_01.jpg,32,5,32,dataset\derivadas\quantizacao\contrabaixo\contrabaixo_01_32_niveis.png,2512.99,Degraus tonais perceptíveis em piso e sombras,Detalhes suaves de iluminação e acabamento,sim,Classificação baseada em silhueta e estrutura
+contrabaixo,contrabaixo_01.jpg,2,1,2,dataset\derivadas\quantizacao\contrabaixo\contrabaixo_01_2_niveis.png,193.6,Silhueta parcial e bordas fortes permanecem,Cor textura e separação de objetos com tons próximos,parcialmente,Segmentação binária com limiar controlado
