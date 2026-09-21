@@ -26,8 +26,19 @@ dataset/arquivo/
 # Gabarito local
 notebooks/atividade_1_gabarito.ipynb
 
+# Espaco pessoal de estudos, gabaritos e experimentos
+/rascunhos/
+
 # Arquivos compactados temporários
 *.zip
 
 # Enunciados e materiais fornecidos pelo curso
 Atividades/
+
+# TEMPORARIO: atividades 3 a 9 antes das respectivas datas de entrega
+# Remover esta secao ao liberar cada atividade para o repositorio.
+/notebooks/atividade_[3-9].ipynb
+/tabelas/atividade_[3-9]/
+/dataset/derivadas/atividade_[3-9]/
+/atividade_[3-9]/
+/relatorios/

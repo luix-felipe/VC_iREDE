@@ -1,0 +1,21 @@
+imagem,classe,etapa,metodo,pixels_borda
+fpga_03.jpg,fpga,antes,Sobel,1033420
+fpga_03.jpg,fpga,antes,Prewitt,1004574
+fpga_03.jpg,fpga,antes,Canny 40/80,1073745
+fpga_03.jpg,fpga,antes,Canny 80/160,298156
+fpga_03.jpg,fpga,antes,Canny 120/240,216465
+fpga_04.jpg,fpga,antes,Sobel,3059636
+fpga_04.jpg,fpga,antes,Prewitt,2963230
+fpga_04.jpg,fpga,antes,Canny 40/80,2647702
+fpga_04.jpg,fpga,antes,Canny 80/160,1192609
+fpga_04.jpg,fpga,antes,Canny 120/240,450806
+contrabaixo_04.jpg,contrabaixo,antes,Sobel,338778
+contrabaixo_04.jpg,contrabaixo,antes,Prewitt,334390
+contrabaixo_04.jpg,contrabaixo,antes,Canny 40/80,260817
+contrabaixo_04.jpg,contrabaixo,antes,Canny 80/160,80613
+contrabaixo_04.jpg,contrabaixo,antes,Canny 120/240,37842
+contrabaixo_05.jpg,contrabaixo,antes,Sobel,620510
+contrabaixo_05.jpg,contrabaixo,antes,Prewitt,614809
+contrabaixo_05.jpg,contrabaixo,antes,Canny 40/80,402128
+contrabaixo_05.jpg,contrabaixo,antes,Canny 80/160,229448
+contrabaixo_05.jpg,contrabaixo,antes,Canny 120/240,150213

@@ -1,0 +1,21 @@
+imagem,classe,etapa_antes,metodo,pixels_borda_antes,etapa_depois,pixels_borda_depois,reducao_pixels_percentual
+fpga_03.jpg,fpga,antes,Sobel,1033420,depois,711689,31.132646939288968
+fpga_03.jpg,fpga,antes,Prewitt,1004574,depois,708187,29.50374984819436
+fpga_03.jpg,fpga,antes,Canny 40/80,1073745,depois,377201,64.8705232620408
+fpga_03.jpg,fpga,antes,Canny 80/160,298156,depois,194929,34.62180871758408
+fpga_03.jpg,fpga,antes,Canny 120/240,216465,depois,148375,31.45543159402213
+fpga_04.jpg,fpga,antes,Sobel,3059636,depois,1689492,44.78127463528341
+fpga_04.jpg,fpga,antes,Prewitt,2963230,depois,1662035,43.91137373744192
+fpga_04.jpg,fpga,antes,Canny 40/80,2647702,depois,1440667,45.58802312344818
+fpga_04.jpg,fpga,antes,Canny 80/160,1192609,depois,368582,69.09448109145579
+fpga_04.jpg,fpga,antes,Canny 120/240,450806,depois,261352,42.025616340510105
+contrabaixo_04.jpg,contrabaixo,antes,Sobel,338778,depois,279270,17.565485362095533
+contrabaixo_04.jpg,contrabaixo,antes,Prewitt,334390,depois,278467,16.72388528365083
+contrabaixo_04.jpg,contrabaixo,antes,Canny 40/80,260817,depois,129916,50.18882971585441
+contrabaixo_04.jpg,contrabaixo,antes,Canny 80/160,80613,depois,47055,41.62852145435599
+contrabaixo_04.jpg,contrabaixo,antes,Canny 120/240,37842,depois,24450,35.3892500396385
+contrabaixo_05.jpg,contrabaixo,antes,Sobel,620510,depois,486194,21.646065333354827
+contrabaixo_05.jpg,contrabaixo,antes,Prewitt,614809,depois,483491,21.359153818502985
+contrabaixo_05.jpg,contrabaixo,antes,Canny 40/80,402128,depois,260181,35.29895953527236
+contrabaixo_05.jpg,contrabaixo,antes,Canny 80/160,229448,depois,138169,39.78199853561591
+contrabaixo_05.jpg,contrabaixo,antes,Canny 120/240,150213,depois,75724,49.58891707109239
