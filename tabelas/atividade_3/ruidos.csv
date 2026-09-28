@@ -1,0 +1,5 @@
+imagem,classe,ruido,parametro,pixels_alterados_percentual,psnr_db
+fpga_04.jpg,fpga,gaussiano,"média 0; σ 0,08",99.991575,22.06612291883041
+fpga_04.jpg,fpga,sal_pimenta,5% das posições,4.999641666666667,18.354731779220536
+contrabaixo_02.jpg,contrabaixo,gaussiano,"média 0; σ 0,08",99.99480833333332,22.319250114335656
+contrabaixo_02.jpg,contrabaixo,sal_pimenta,5% das posições,4.999808333333333,17.726499818873858

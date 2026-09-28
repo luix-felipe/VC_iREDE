@@ -1,0 +1,11 @@
+classe,etapa,resultado
+fpga,Imagem original,Referência com os detalhes preservados.
+fpga,Ruído gaussiano,Granulação distribuída; prejudica regiões e bordas de baixo contraste.
+fpga,Sal e pimenta,Pontos extremos isolados; menor PSNR entre os ruídos testados.
+fpga,Passa-baixa gaussiano,"Reduz variações, mas também suaviza inscrições, terminais e cordas."
+fpga,Passa-alta,Realça contornos e detalhes; também pode destacar textura e ruído.
+contrabaixo,Imagem original,Referência com os detalhes preservados.
+contrabaixo,Ruído gaussiano,Granulação distribuída; prejudica regiões e bordas de baixo contraste.
+contrabaixo,Sal e pimenta,Pontos extremos isolados; menor PSNR entre os ruídos testados.
+contrabaixo,Passa-baixa gaussiano,"Reduz variações, mas também suaviza inscrições, terminais e cordas."
+contrabaixo,Passa-alta,Realça contornos e detalhes; também pode destacar textura e ruído.
