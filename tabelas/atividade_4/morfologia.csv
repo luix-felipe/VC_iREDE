@@ -1,0 +1,5 @@
+etapa,pixels_primeiro_plano,componentes_brutos
+Segmentada,32952,178
+Abertura 3×3,31933,67
+Fechamento 5×5,35467,51
+Buracos preenchidos,39897,48
