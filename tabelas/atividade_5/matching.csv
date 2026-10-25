@@ -1,0 +1,4 @@
+par,imagem_a,imagem_b,keypoints_a,keypoints_b,candidatos,aceitos
+Contrabaixo,contrabaixo_01,contrabaixo_03,1500,1500,1500,242
+FPGA,fpga_01,fpga_04,1500,1500,1500,415
+Classes diferentes,contrabaixo_01,fpga_01,1500,1500,1500,15

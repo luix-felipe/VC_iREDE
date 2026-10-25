@@ -1,0 +1,6 @@
+descritor,representa,vantagens,limitacoes,resultado
+Histogramas,Distribuição de intensidades e cores,Simples e normalizáveis,Perdem posição; fundo e exposição influenciam,"Pistas de cor, sem separação confiável"
+Estatística global,"Brilho, dispersão e entropia",Resume a aquisição com poucos números,Imagens diferentes podem ter médias próximas,Útil para exposição; média pouco útil para separar classes
+ORB + matching,Aparência e estrutura de vizinhanças,Reencontra detalhes em vistas sobrepostas,"Fundo, reflexos e padrões repetidos causam ambiguidades",Mais útil para correspondência neste conjunto
+GLCM,Relações entre intensidades vizinhas,Mede contraste e direcionalidade,"Depende do recorte, direção e quantização","Diferenciou os recortes, mas não descreve o objeto inteiro"
+LBP,Padrões locais relativos ao centro,Histograma compacto de microestruturas,Perde a forma geral e depende do recorte,Mostrou diferenças locais de textura

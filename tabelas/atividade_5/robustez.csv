@@ -1,0 +1,3 @@
+teste,keypoints_referencia,keypoints_alvo,matches
+Controle: mesma imagem,1500,1500,1500
+"Borramento 7×7, σ=1,5",1500,1500,729
